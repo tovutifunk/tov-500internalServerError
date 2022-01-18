@@ -2,13 +2,13 @@
 
 [https://tovuti.atlassian.net/browse/DSN-1083](https://tovuti.atlassian.net/browse/DSN-1083)
 
-```jsx
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhXhgz1YnpQBpWYmWBbarLq%2F500-Server-Error%3Fpage-id%3D2%253A38763%26node-id%3D2%253A39163%26viewport%3D438%252C48%252C0.29%26scaling%3Dscale-down%26starting-point-node-id%3D2%253A39163%26show-proto-sidebar%3D1" allowfullscreen></iframe>
-```
 
-```jsx
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhXhgz1YnpQBpWYmWBbarLq%2F500-Server-Error%3Fpage-id%3D2%253A38763%26node-id%3D2%253A39163%26viewport%3D438%252C48%252C0.29%26scaling%3Dscale-down%26starting-point-node-id%3D2%253A39163%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+
+
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhXhgz1YnpQBpWYmWBbarLq%2F500-Server-Error%3Fpage-id%3D2%253A34335%26node-id%3D2%253A37248%26viewport%3D438%252C48%252C0.73%26scaling%3Dscale-down%26starting-point-node-id%3D2%253A37248%26show-proto-sidebar%3D1" allowfullscreen></iframe>
-```
+
 
 ![LightMode-16_9-Desktopaccess.jpg](/LightMode-16_9-Desktopaccess.jpg)
 
