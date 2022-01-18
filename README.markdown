@@ -10,11 +10,11 @@
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhXhgz1YnpQBpWYmWBbarLq%2F500-Server-Error%3Fpage-id%3D2%253A34335%26node-id%3D2%253A37248%26viewport%3D438%252C48%252C0.73%26scaling%3Dscale-down%26starting-point-node-id%3D2%253A37248%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 ```
 
-![LightMode-16_9-Desktopaccess.jpg](AC%20500%20Server%20Error%20Page%20efe0cedf3a6f4e0399a393ad3c0ab0f1/LightMode-16_9-Desktopaccess.jpg)
+![LightMode-16_9-Desktopaccess.jpg](/LightMode-16_9-Desktopaccess.jpg)
 
-![DarkMode-16_9-Desktopaccess.jpg](AC%20500%20Server%20Error%20Page%20efe0cedf3a6f4e0399a393ad3c0ab0f1/DarkMode-16_9-Desktopaccess.jpg)
+![DarkMode-16_9-Desktopaccess.jpg](/DarkMode-16_9-Desktopaccess.jpg)
 
-![LightMode-16_9-Desktop-grid.png](AC%20500%20Server%20Error%20Page%20efe0cedf3a6f4e0399a393ad3c0ab0f1/LightMode-16_9-Desktop-grid.png)
+![LightMode-16_9-Desktop-grid.png](/LightMode-16_9-Desktop-grid.png)
 
 # Acceptance Criteria
 
@@ -60,7 +60,7 @@
 - Designs are provided in 3 breakpoints. 1 more may be needed for md
 - MOYO-DS Grid for reference:
     
-    ![moyo-ds-disabled.svg](AC%20500%20Server%20Error%20Page%20efe0cedf3a6f4e0399a393ad3c0ab0f1/moyo-ds-disabled.svg)
+    ![moyo-ds-disabled.svg](/moyo-ds-disabled.svg)
     
     ```jsx
     - xlg — default break up to 1584px, supports 16 columns by default
@@ -94,7 +94,7 @@
 - Color Contrast
     - Same grade both ways ;) obviously no surprise here.
     
-    ![Untitled](AC%20500%20Server%20Error%20Page%20efe0cedf3a6f4e0399a393ad3c0ab0f1/Untitled.png)
+    ![Untitled](/Untitled.png)
     
 - Focus Order Page Sequence
     - Single mockup. The pages here are all similiar enough and one does fit all in this case.
